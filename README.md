@@ -30,5 +30,7 @@ Programming Language: Python
 **Libraries:**
 
 pandas for data manipulation and cleaning.
+
 numpy for numerical computations.
+
 plotly.express for interactive visualizations.
