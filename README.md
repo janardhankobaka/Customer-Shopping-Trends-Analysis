@@ -1,4 +1,5 @@
 **Overview**
+
 This project provides a comprehensive analysis of customer shopping preferences using an interactive and visually appealing approach. The dataset captures customer attributes such as age, gender, purchase amount, shopping frequency, preferred seasons, and more. By analyzing this data, businesses can better understand customer behavior and optimize their strategies for enhanced satisfaction and profitability.
 This project is ideal for beginners in Data Analysis and Machine Learning who want to learn how to clean and analyze data while creating insightful visualizations.
 
